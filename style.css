@@ -1,0 +1,28 @@
+@font-face{
+font-family: reg;
+src: url(ast/regular.ttf);
+}
+@font-face{
+font-family: bold;
+src: url(ast/bold.ttf);
+}
+
+@font-face{
+font-family: un;
+src: url(ast/typ1.ttf);
+}
+
+#warp {}
+
+#menu {}
+
+#ban {}
+
+#connex {}
+
+#PartiesEnCours {}
+
+#PartiesFinies {}
+
+h1 {
+font-family:reg;}
