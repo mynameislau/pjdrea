@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 
-<?php // php yéyé //
+<?php // php yï¿½yï¿½ //
 	$parties = scandir("parties"); //scan les parties
 	//chdir("parties"); // se fout dans le bon dir
-	//echo "$parties[2]"; //le nom du fichier brut // ça commence à 2
+	//echo "$parties[2]"; //le nom du fichier brut // ï¿½a commence ï¿½ 2
 	
 	$partieNom = $partiePath = [];
 	
@@ -19,7 +19,7 @@
 
 
 
-<!-- HTML yop yop-->
+<!-- HTML yop test yop-->
 <html>
 <head>
 <meta charset="ANSI">
